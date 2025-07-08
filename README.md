@@ -2,7 +2,7 @@
 
 Code for Incrementally Penalized Proximal Policy Optimization (IP3O) algorithm accepted at IJCAI 2025.
 
-This repository is based on the [omnisafe](https://github.com/PKU-Alignment/omnisafe).
+This repository is based on [Omnisafe](https://github.com/PKU-Alignment/omnisafe).
 
 # Installation Guide
 
